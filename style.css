@@ -1,3 +1,4 @@
+
 body {
 	background:#000000;
 }
@@ -75,13 +76,20 @@ body {
 	left: 800px;
 
 
-video {
-	position: absolute;
-	height: 1000px;
-	width: 1000px;
-}
+
 #Ardin {
 	position: absolute;
 	top 500px;
 	left: 800px;
+}
+
+section {
+	width: 100%;
+	height: 100vh;
+	position: relative;
+	overflow: hidden;
+}
+
+#Myvideo {
+	width: 100%;
 }
