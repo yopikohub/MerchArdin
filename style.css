@@ -93,3 +93,26 @@ section {
 #Myvideo {
 	width: 100%;
 }
+
+
+#agushaa {
+	position: absolute;
+	top: 500px;
+	left: 500px;
+}
+
+.conteiner23 {
+	position:relative;
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	background-position: center;
+	filter: blur(3px);
+}
+
+.contente {
+	padding: 50px;
+	text-aligin: center;
+	border-radius: 25px;
+	z-index:2;
+}
